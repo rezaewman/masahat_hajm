@@ -1,4 +1,4 @@
-pi = 22 / 7
+pi = 3.14
 height = float(input('Height of cylinder: '))
 radian = float(input('radius of cylinder: '))
 volume = pi * radian * radian * height
